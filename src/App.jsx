@@ -173,7 +173,7 @@ export default function HorribleSignup() {
     document.body.style.animation = 'shake 0.5s';
     
     setTimeout(() => {
-      alert('❌ INCORRECT PASSWORD!\n\n🚨 ACCOUNT TERMINATED 🚨\n\nJust kidding... this is the worst signup ever! 😈\n\nBut seriously, your account has been deleted. Try again! 💀');
+      alert('❌ INCORRECT PASSWORD!\n\n🚨 ACCOUNT TERMINATED 🚨');
       document.body.style.animation = '';
       // Reset everything
       setUsername('');
