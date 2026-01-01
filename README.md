@@ -1,17 +1,46 @@
-# React + Vite
+# BakwasLogin 🗑️
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+**The worst login experience you never asked for.**
 
-Currently, two official plugins are available:
+A user-hostile authentication form built to test your patience, physics knowledge, and sanity. Developed with React + Vite because modern tech should enable suffering.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🌟 "Features"
 
-## React Compiler
+### Phase 1: The Username
+- **Shuffling Keyboard:** Physical keyboard input is disabled. You must use the on-screen keys, which randomly reshuffle their positions after every single click.
+- **No Mercy:** Typo? Good luck finding the key again.
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+### Phase 2: The Password
+- **Physics-Based Entry:** Forget typing. Enter your password by sliding a 2kg box across a surface.
+- **Calculate Your Fate:** You must input the correct **Force (N)** and **Coefficient of Friction (μ)** to slide the box exactly onto the character you want to select.
+- **Real-time Simulation:** Watch the box slide and miss your target by pixels.
 
-## Expanding the ESLint configuration
+### Phase 3: The Login
+- **Cursor Harassment:** A text follower chases your mouse cursor.
+- **Visual Noise:** Blinking text, annoying marquees, and a "Secure Portal" warning.
+- **The Climax:** Why spoil the climax?
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
-# bakwaslogin
+## 🚀 Getting Started
+
+1. **Clone the repository**
+```bash
+git clone https://github.com/bhaveshkukreja29/bakwaslogin.git
+cd bakwaslogin
+```
+
+2. **Install dependencies**
+```bash
+npm install
+```
+
+
+3. **Run the torture chamber**
+```bash
+npm run dev
+```
+
+
+
+## ⚠️ Disclaimer
+
+This project is a joke. Please do not actually use this UX pattern in production unless you hate your users. Best viewed in Netscape Navigator 4.0. Feel free to contribute on making it worse!
